@@ -1,0 +1,6 @@
+name: LimitedRegion
+main: dev.xalphabet.limitedregion.LimitedRegion
+version: 1.0
+author: xAlphabet_
+depend:
+  - WorldGuard
